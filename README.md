@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">Hi my name is Abolfazl <br>Trying to be a Front-End dev ☕️<br>Open to collaborations and internships⚡️<br> I use vim (btw) 🦦</h2>
+<h2 align="left">Hi my name is Abolfazl <br>Trying to be a Front-End dev ☕️<br>interested in Blockchain development. <br>Open to collaborations and internships⚡️<br>I use vim (btw) 🦦</h2>
 
 ###
 
@@ -31,7 +31,9 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="68" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="68" alt="nextjs logo"  />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="68" alt="react logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="68" alt="redux logo"  />
   <img width="10" />
@@ -39,19 +41,21 @@
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="68" alt="javascript logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="68" alt="tailwindcss logo"  />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="68" alt="tailwindcss logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="68" alt="html5 logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="68" alt="css logo"  />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="68" alt="sass logo"  />
+  <img src="https://skillicons.dev/icons?i=sass" height="68" alt="sass logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="68" alt="java logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="68" alt="cplusplus logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="68" alt="linux logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="68" alt="lua logo"  />
 </div>
 
 ###
