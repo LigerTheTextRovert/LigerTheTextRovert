@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">Hi my name is Abolfazl <br>Front-End developer @ Taysa <br>Trying to be a better Front-End dev ☕️ <br>interested in Blockchain development ⚡️<br>I use vim (btw) 🦦</h2>
+<h2 align="left">my name is Abolfazl <br>Front-End developer @ Taysa <br>Trying to be a better Front-End dev ☕️ <br>interested in Blockchain development ⚡️<br>I use vim (btw) 🦦</h2>
 
 ###
 
