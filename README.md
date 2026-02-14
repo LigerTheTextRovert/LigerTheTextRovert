@@ -1,8 +1,9 @@
-<h1 align="left">Hey 👋</h1>
-
+<div align="center">
+  <img src="./pics/018.png" alt="Your Image Description">
+</div>
 ###
 
-<h2 align="left">my name is Abolfazl <br>Trying to be a better Front-End dev ☕️ <br>I use vim (btw) 🦦</h2>
+<h2 align="left">my name is Abolfazl <br>Just a curious student & programmer☕️ <br>I use vim (btw) 🦦</h2>
 
 ###
 
