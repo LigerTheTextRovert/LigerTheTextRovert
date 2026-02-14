@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="./pics/018.png" alt="Your Image Description">
-</div>
-
-###
-
 <h2 align="left">my name is Abolfazl <br>Just a curious student & programmer☕️ <br>I use vim (btw) 🦦</h2>
 
 ###
