@@ -1,4 +1,4 @@
-<h2 align="left">my name is Abolfazl <br>Just a curious student & programmer☕️ <br>I use vim (btw) 🦦</h2>
+<h2 align="left">Just a curious student & programmer☕️ <br>I use vim (btw) 🦦</h2>
 
 ###
 
@@ -21,12 +21,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LigerTheTextRovert&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="68" alt="nextjs logo"  />
   <img width="10" />
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="68" alt="react logo"  />
@@ -34,6 +28,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="68" alt="redux logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="68" alt="typescript logo"  />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/go/00ADD8" height="68" alt="go logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="68" alt="javascript logo"  />
   <img width="10" />
