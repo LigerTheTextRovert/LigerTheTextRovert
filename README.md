@@ -25,29 +25,12 @@
   <img width="10" />
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="68" alt="react logo"  />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="68" alt="redux logo"  />
-  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="68" alt="typescript logo"  />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/go/00ADD8" height="68" alt="go logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="68" alt="javascript logo"  />
   <img width="10" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="68" alt="tailwindcss logo"  />
+  <img src="https://cdn.simpleicons.org/go/00ADD8" height="68" alt="go logo"  />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="68" alt="html5 logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="68" alt="css logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=sass" height="68" alt="sass logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="68" alt="java logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="68" alt="cplusplus logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="68" alt="linux logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="68" alt="lua logo"  />
-</div>
+  </div>
 
 ###
