@@ -31,6 +31,7 @@
   <img width="10" />
   <img src="https://cdn.simpleicons.org/go/00ADD8" height="68" alt="go logo"  />
   <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="68" alt="postgresql logo"  />
   </div>
 
 ###
