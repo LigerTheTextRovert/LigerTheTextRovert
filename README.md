@@ -25,9 +25,9 @@
   <img width="10" />
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="68" alt="react logo"  />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="68" alt="typescript logo"  />
+  <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="68" alt="nestjs logo"  />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="68" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="68" alt="typescript logo"  />
   <img width="10" />
   <img src="https://cdn.simpleicons.org/go/00ADD8" height="68" alt="go logo"  />
   <img width="10" />
